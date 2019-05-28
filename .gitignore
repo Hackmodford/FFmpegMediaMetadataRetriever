@@ -11,3 +11,17 @@ gradle-app.setting
 
 # Cache of project
 .gradletasknamecache
+gradle/fmmr-library/.idea
+gradle/fmmr-library/library/src/main/ffmpeg/ffmpeg-3.0.1
+gradle/fmmr-library/library/src/main/ffmpeg/ffmpeg-android
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/arm64-v8a
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/armeabi
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/armeabi-v7a
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/mips
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/x86
+gradle/fmmr-library/library/src/main/jni/ffmpeg/ffmpeg/x86_64
+gradle/fmmr-library/library/src/main/ffmpeg/ffmpeg-3.0.1.tar.bz2
+gradle/fmmr-library/library/src/main/libs
+gradle/fmmr-library/library/src/main/obj
+*.iml
+*.iml
